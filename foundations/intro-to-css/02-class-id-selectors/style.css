@@ -1,0 +1,19 @@
+.paragraph {
+    background-color: salmon;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#c1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.paragraph.cooler {
+    font-size: 24px;
+}
+
+#c2 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
